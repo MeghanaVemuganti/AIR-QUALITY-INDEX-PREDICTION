@@ -1,4 +1,5 @@
 # A Machine Learning Model for Air Quality Prediction for Smart Cities
+#### Paper Link: http://thedesignengineering.com/index.php/DE/article/view/9410
 ## Abstract:
 This project addresses the challenge of predicting the Air Quality Index (AQI) to minimize pollution using various machine learning algorithms, including Neural Networks, Support Vector Machines, Linear Regression, K-Nearest Neighbors, Decision Trees, and Random Forests. Data from the Central Pollution Control Board (CPCB), India, was used for modeling, with promising results for predicting AQI in Delhi.
 
